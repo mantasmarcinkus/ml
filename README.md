@@ -8,3 +8,4 @@ Here is a the content from the lecture
 - Jupyter Lab (Jupyter Notebook)
 - other packages can be downloaded through conda
 a
+b
