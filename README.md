@@ -7,3 +7,5 @@ Here is a the content from the lecture
 - conda (anaconda for Win)
 - Jupyter Lab (Jupyter Notebook)
 - other packages can be downloaded through conda
+a
+b
